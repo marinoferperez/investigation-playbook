@@ -104,10 +104,10 @@ This workflow emphasizes understanding, reproducibility and long-term maintainab
 | `engineering/`   | Engineering principles and development methodology      |
 | `architecture/`  | Architectural guidelines and design standards           |
 | `documentation/` | Documentation conventions and structure                 |
-<!-- | `testing/`       | Testing philosophy and quality standards                | -->
-<!-- | `benchmarking/`  | Benchmarking methodology and evaluation practices       | -->
 | `git/`           | Git workflow, branching strategy and commit conventions |
 | `adr/`           | Architecture Decision Record standards                  |
+<!-- | `testing/`       | Testing philosophy and quality standards                | -->
+<!-- | `benchmarking/`  | Benchmarking methodology and evaluation practices       | -->
 <!-- | `templates/`     | Reusable project templates                              | -->
 
 ---
